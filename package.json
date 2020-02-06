@@ -30,5 +30,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+	"repository": {
+	    "type": "git",
+	    "url": "git+https://github.com/jfayerz/my-app.git"
+  },
+    "keywords": [],
+    "author": "Jonathan Ayers",
+    "license": "MIT",
+	"bugs": {
+		"url": "https://github.com/jfayerz/webpack-asset-mgmt/issues"
+  },
+    "homepage": "https://github.com/jfayerz/webpack-asset-mgmt#readme"
+
 }
