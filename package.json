@@ -18,7 +18,7 @@
   },
   "eslintConfig": {
     "extends": "react-app"
-  },
+  }, 
   "browserslist": {
     "production": [
       ">0.2%",
@@ -31,16 +31,18 @@
       "last 1 safari version"
     ]
   },
-	"repository": {
-	    "type": "git",
-	    "url": "git+https://github.com/jfayerz/my-app.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfayerz/my-app.git"
   },
-    "keywords": [],
-    "author": "Jonathan Ayers",
-    "license": "MIT",
-	"bugs": {
-		"url": "https://github.com/jfayerz/webpack-asset-mgmt/issues"
+  "keywords": [],
+  "author": "Jonathan Ayers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfayerz/webpack-asset-mgmt/issues"
   },
-    "homepage": "https://github.com/jfayerz/webpack-asset-mgmt#readme"
-
+  "homepage": "https://github.com/jfayerz/webpack-asset-mgmt#readme",
+  "devDependencies": {
+    "eslint-plugin-react": "^7.18.3"
+  }
 }
